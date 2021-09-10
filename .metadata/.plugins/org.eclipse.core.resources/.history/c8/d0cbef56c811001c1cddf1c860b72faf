@@ -1,0 +1,6 @@
+package com.ti2cc;
+
+public class Curso {
+	private int id;
+	private String nome;
+}
